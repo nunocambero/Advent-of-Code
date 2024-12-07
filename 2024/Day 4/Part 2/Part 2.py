@@ -24,7 +24,7 @@ def find_x_mas(grid):
 
     return count
 
-with open("C:\\Users\\Universidad\\Advent of Code\\2024\\Day 4\\input.txt") as file:
+with open("C:\\Users\\Nuño\\Advent of Code\\2024\\Day 4\\input.txt") as file:
     lines = file.readlines()
 
 word_search = [list(line) for line in lines]

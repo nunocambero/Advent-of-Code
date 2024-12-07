@@ -16,7 +16,7 @@ def find_word(grid, word):
                     count += 1
     return count
 
-file = open("C:\\Users\\Universidad\\Advent of Code\\2024\\Day 4\\input.txt")
+file = open("C:\\Users\\Nuño\\Advent of Code\\2024\\Day 4\\input.txt")
 lines = file.read().split("\n")
 count = 0
 

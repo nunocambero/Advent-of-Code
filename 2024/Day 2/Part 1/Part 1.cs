@@ -7,7 +7,7 @@ namespace Day2
     {
         static void Main(string[] args)
         {
-            string filePath = "C:\\Users\\Universidad\\Advent of Code\\2024\\Day 2\\input.txt";
+            string filePath = "C:\\Users\\Nuño\\Advent of Code\\2024\\Day 2\\input.txt";
             if (!System.IO.File.Exists(filePath))
             {
                 Console.WriteLine("File not found");
