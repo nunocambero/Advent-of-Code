@@ -1,7 +1,7 @@
 <h1>Advent of code 2024 solutions</h1>
-<table>
+<table width="100%">
   <tr>
-    <td>
+    <td width="40%">
       <!-- First column content -->
       <ul>
         <li><strong>Day 1:</strong> <code>C++</code></li>
@@ -16,7 +16,7 @@
         <li><strong>Day 10:</strong> <code>Bash</code></li>
       </ul>
     </td>
-    <td>
+    <td width="60%">
       <!-- Second column content -->
       <picture>
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nunocambero&layout=pie&theme=dark&langs_count=20"/>
