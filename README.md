@@ -14,6 +14,7 @@
         <li><strong>Day 8:</strong> <code>Go</code></li>
         <li><strong>Day 9:</strong> <code>JavaScript</code></li>
         <li><strong>Day 10:</strong> <code>Bash</code></li>
+        <li><strong>Day 11:</strong> <code>Lua</code></li>
       </ul>
     </td>
     <td width="60%">
