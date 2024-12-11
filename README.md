@@ -20,7 +20,7 @@
     <td width="60%">
       <!-- Second column content -->
       <picture>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nunocambero&layout=pie&theme=dark&langs_count=20"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nunocambero&layout=pie&theme=dark&langs_count=19&exclude_repo=Marks-Manager,Graphing-Calculator"/>
       </picture>
     </td>
   </tr>
