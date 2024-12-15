@@ -17,13 +17,14 @@
         <li><strong>Day 11:</strong> <code>Lua</code></li>
         <li><strong>Day 12:</strong> <code>Rust</code></li>
         <li><strong>Day 13:</strong> <code>JavaScript</code></li>
-        <li><strong>Day 14:</strong> <code>PowerShell / C</code></li>
+        <li><strong>Day 14:</strong> <code>PowerShell/C</code></li>
+        <li><strong>Day 15:</strong> <code>Lua</code></li>
       </ul>
     </td>
     <td width="60%">
       <!-- Second column content -->
       <picture>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nunocambero&layout=pie&theme=dark&langs_count=22&exclude_repo=Marks-Manager,Graphing-Calculator"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nunocambero&layout=pie&theme=dark&langs_count=24&exclude_repo=Marks-Manager,Graphing-Calculator"/>
       </picture>
     </td>
   </tr>
