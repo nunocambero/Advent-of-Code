@@ -7,7 +7,7 @@ import (
 )
 
 func main() {
-	filename := "C:\\Users\\Nuño\\Advent of Code\\2024\\Day 8\\input.txt"
+	filename := "input.txt"
 	var result int64
 	part := 1
 	var grid [55][55]byte

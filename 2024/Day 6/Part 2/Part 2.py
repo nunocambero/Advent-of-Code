@@ -1,4 +1,4 @@
-file_name = 'C:\\Users\\Nuño\\Advent of Code\\2024\\Day 6\\input.txt'
+file_name = 'input.txt'
 
 directions = [(-1,0),(0,1),(1,0),(0,-1)]
 direction_index = 0

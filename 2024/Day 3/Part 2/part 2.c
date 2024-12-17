@@ -3,7 +3,7 @@
 #include <string.h>
 
 int main() {
-    FILE* f = fopen("C:\\Users\\Nuño\\Advent of Code\\2024\\Day 3\\input.txt", "r");
+    FILE* f = fopen("input.txt", "r");
 
     char content[30000];
     fread(content, 1, 30000, f);

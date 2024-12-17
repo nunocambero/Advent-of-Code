@@ -26,7 +26,7 @@ bool isCorrectOrder(const vector<int>& update, const unordered_map<int, unordere
 }
 
 int main() {
-    ifstream inputFile("C:\\Users\\Nuño\\Advent of Code\\2024\\Day 5\\input.txt");
+    ifstream inputFile("input.txt");
     if (!inputFile.is_open()) {
         cerr << "Failed to open the file." << endl;
         return 1;

@@ -21,7 +21,7 @@ function Solvable {
 	return (Solvable -sum ($sum - $num) -numbers $numbers -index ($index - 1)) -or $timeSolvable
 }
 
-$inputFile = "C:\Users\Nuño\Advent of Code\2024\Day 7\input.txt"
+$inputFile = "input.txt"
 $inputData = Get-Content -Path $inputFile
 
 $totalSum = 0

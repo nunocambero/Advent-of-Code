@@ -1,6 +1,6 @@
 import fs from 'fs';
 
-let input = fs.readFileSync('/home/nuno/Advent-of-Code/2024/Day 13/input.txt', 'utf8').trim().split("\n\n");
+let input = fs.readFileSync('input.txt', 'utf8').trim().split("\n\n");
 let totalCost = 0;
 
 for (let machine of input) {

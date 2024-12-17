@@ -28,7 +28,7 @@ function minimizeCost(Ax, Ay, Bx, By, Px, Py) {
 }
 
 
-let input = fs.readFileSync('/home/nuno/Advent-of-Code/2024/Day 13/input.txt', 'utf8').trim().split("\n\n");
+let input = fs.readFileSync('input.txt', 'utf8').trim().split("\n\n");
 let totalCost = 0;
 
 const OFFSET = 10000000000000;

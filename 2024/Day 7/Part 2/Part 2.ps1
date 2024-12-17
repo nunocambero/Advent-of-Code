@@ -1,4 +1,4 @@
-$inputFile = "C:\Users\Nuño\Advent of Code\2024\Day 7\input.txt"
+$inputFile = "input.txt"
 $lines = Get-Content $inputFile
 
 function Split-Numbers {

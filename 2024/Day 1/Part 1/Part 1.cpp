@@ -8,7 +8,7 @@
 using namespace std;
 
 int main() {
-    ifstream file("C:\\Users\\Nuño\\Advent of Code\\2024\\Day 1\\input.txt");
+    ifstream file("input.txt");
     if (!file.is_open()) {
         cout << "File not found" << endl;
         return 1;

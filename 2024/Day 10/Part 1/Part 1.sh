@@ -5,7 +5,7 @@ declare -A visited
 rows=0
 cols=0
 
-input="/home/nuno/Advent-of-Code/2024/Day 10/input.txt"
+input="input.txt"
 while IFS= read -r line || [[ -n "$line" ]]; do
     map[$rows]="$line"
     cols=${#line}

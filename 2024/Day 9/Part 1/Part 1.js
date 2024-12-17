@@ -22,5 +22,5 @@ function compactDiskMap(input) {
     return checksum;
 }
 
-let input = fs.readFileSync('C:\\Users\\Nuño\\Advent of Code\\2024\\Day 9\\input.txt', 'utf8').split("").map(x => +x);
+let input = fs.readFileSync('input.txt', 'utf8').split("").map(x => +x);
 console.log(compactDiskMap(input));
