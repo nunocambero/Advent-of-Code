@@ -22,12 +22,13 @@
         <li><strong>Day 16:</strong> <code>Go</code></li>
         <li><strong>Day 17:</strong> <code>C#</code></li>
         <li><strong>Day 18:</strong> <code>C</code></li>
+        <li><strong>Day 19:</strong> <code>C++</code></li>
       </ul>
     </td>
     <td width="60%">
       <!-- Second column content -->
       <picture>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nunocambero&layout=pie&theme=dark&langs_count=30&exclude_repo=Marks-Manager,Graphing-Calculator"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nunocambero&layout=pie&theme=dark&langs_count=31&exclude_repo=Marks-Manager,Graphing-Calculator"/>
       </picture>
     </td>
   </tr>
