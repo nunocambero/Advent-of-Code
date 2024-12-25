@@ -1,7 +1,7 @@
 <h1>Advent of code 2024 solutions</h1>
 <table width="100%">
   <tr>
-    <td width="40%">
+    <td width="30%">
       <!-- First column content -->
       <ul>
         <li><strong>Day 1:</strong> <code>C++</code></li>
@@ -17,6 +17,10 @@
         <li><strong>Day 11:</strong> <code>Lua</code></li>
         <li><strong>Day 12:</strong> <code>Rust</code></li>
         <li><strong>Day 13:</strong> <code>JavaScript</code></li>
+      </ul>
+    </td>
+    <td width="30%">
+      <ul>
         <li><strong>Day 14:</strong> <code>PowerShell</code></li>
         <li><strong>Day 15:</strong> <code>Lua</code></li>
         <li><strong>Day 16:</strong> <code>Go</code></li>
@@ -31,7 +35,7 @@
         <li><strong>Day 25:</strong> <code>JavaScript</code></li>
       </ul>
     </td>
-    <td width="60%">
+    <td width="40%">
       <!-- Second column content -->
       <picture>
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nunocambero&layout=pie&theme=dark&langs_count=40&exclude_repo=Marks-Manager,Graphing-Calculator"/>
