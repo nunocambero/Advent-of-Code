@@ -26,12 +26,13 @@
         <li><strong>Day 20:</strong> <code>Python</code></li>
         <li><strong>Day 21:</strong> <code>Rust</code></li>
         <li><strong>Day 22:</strong> <code>C</code></li>
+        <li><strong>Day 23:</strong> <code>C</code></li>
       </ul>
     </td>
     <td width="60%">
       <!-- Second column content -->
       <picture>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nunocambero&layout=pie&theme=dark&langs_count=34&exclude_repo=Marks-Manager,Graphing-Calculator"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nunocambero&layout=pie&theme=dark&langs_count=35&exclude_repo=Marks-Manager,Graphing-Calculator"/>
       </picture>
     </td>
   </tr>
