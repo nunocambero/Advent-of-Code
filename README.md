@@ -1,4 +1,5 @@
-<h1>Advent of code 2024 solutions</h1>
+<h1>Advent of Code 2024 solutions</h1>
+<h2><a href="https://adventofcode.com">Advent of Code</a></h2>
 <table width="100%">
   <tr>
     <td width="30%">
