@@ -39,7 +39,7 @@
     <td width="40%">
       <!-- Second column content -->
       <picture>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nunocambero&layout=pie&theme=dark&langs_count=40&exclude_repo=Marks-Manager,Graphing-Calculator"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nunocambero&layout=pie&theme=dark&langs_count=40&exclude_repo=Marks-Manager,Graphing-Calculator,vector-calculus,discrete-mathematics,power-calculator"/>
       </picture>
     </td>
   </tr>
